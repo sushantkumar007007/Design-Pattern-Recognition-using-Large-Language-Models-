@@ -23,8 +23,8 @@ Before replicating the experiments, ensure that the following prerequisites are 
 2. Required Python packages installed (NumPy, Matplotlib, scikit-learn, TensorFlow, etc.)
 3. See the requirement.txt to install all the necessary packages
 4. Access to the datasets folder (design patterns files and non-design patterns files), which includes all the files of five design patterns and files which do not implement any design pattern.
-	a. Five folders each for design patterns. Each design pattern folders also have a subfolders, which includes files which donot implement that specific design pattern. 
-	b. A file name "non-implemented DP" containes files which donot implement any design pattern. 
+	a). Five folders each for design patterns. Each design pattern folders also have a subfolders, which includes files which donot implement that specific design pattern. 
+	b). A file name "non-implemented DP" containes files which donot implement any design pattern. 
 	
 
 Replication Steps
