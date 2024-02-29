@@ -19,7 +19,7 @@ This script produce the results for CodeGPT model combined with k-NN classificat
 
 Prerequisites
 Before replicating the experiments, ensure that the following prerequisites are met:
-1. Python installed on your system (version X.X or later)
+1. Python installed on your system (version 3.10 or later)
 2. Required Python packages installed (NumPy, Matplotlib, scikit-learn, TensorFlow, etc.)
 3. See the requirement.txt to install all the necessary packages
 4. Access to the datasets folder (design patterns files and non-design patterns files), which includes all the files of five design patterns and files which do not implement any design pattern.
