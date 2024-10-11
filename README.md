@@ -54,6 +54,6 @@ Compare the performance metrics obtained from scripts to evaluate the effectiven
 
 Contact Information
 For any questions or assistance regarding the replication process, feel free to contact:
-Sushant Kumar Pandey (sushantk@chalmers.se)
+Sushant Kumar Pandey (sushantk@chalmers.se, s.k.pandey@rug.nl)
 Sivajeet Chand (sivajeet@student.chalmers.se)
 
